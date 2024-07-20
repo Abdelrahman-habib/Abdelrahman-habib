@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abdelrahmanhabib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stillasdeadasleaves) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-habib-ali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/asdeadasleavess) <a href="https://www.leetcode.com/abdelrahman-habib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelrahman-habib" height="30" width="40" /></a>
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abdelrahmanhabib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stillasdeadasleaves) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-habib-ali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/asdeadasleavess) [![LeetCode user abdelrahman-habib](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabdelrahman-habib&logo=leetcode&logoColor=yellow)](https://leetcode.com/abdelrahman-habib/)
 
 
 # 💻 Tech Stack:
