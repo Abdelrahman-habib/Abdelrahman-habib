@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from Egypt</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MYREX (last.fm on steroids)<br>🌱 I’m currently learning rust<br>💬 Ask me about Full stack development, React, Nextjs, Nodejs, ts, js, Unity, C#, python, UI-Automation, Electron, chromium...<br>👨‍💻 All of my projects are available at My GitHub<br>📫 How to reach me Abdulrahmanhabib@proton.me<br>⚡ Fun fact professional at being a failure, owner of multiple dead art account (@stillasdeadasleaves on IG/X/FB/...))
+🔭 I’m currently working on: MYREX (last.fm on steroids)<br>🌱 I’m currently learning: rust<br>💬 Ask me about: Full stack development, React, Nextjs, Nodejs, ts, js, Unity, C#, python, UI-Automation, Electron, chromium...<br>👨‍💻 All of my projects are available at: My GitHub<br>📫 How to reach me: Abdulrahmanhabib@proton.me<br>⚡ Fun fact: professional at being a failure, owner of multiple dead art account (@stillasdeadasleaves on IG/X/FB/...))
 
 
 ## 🌐 Socials:
